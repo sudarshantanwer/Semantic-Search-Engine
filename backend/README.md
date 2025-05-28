@@ -1,7 +1,3 @@
-Great! Here's a `README.md` file to document how to set up and run your **monorepo semantic search chatbot** project using **FastAPI (backend)** and **React (frontend)**:
-
----
-
 ## 📚 Semantic Search Chatbot
 
 A full-stack AI-powered chatbot that performs semantic search using OpenAI embeddings and displays results via a React frontend. The backend uses FastAPI and LangChain with Chroma vector DB.
@@ -129,5 +125,3 @@ npm run dev
 ```
 
 ---
-
-Let me know if you'd like to deploy this project (e.g., on Render, Vercel, or EC2).
